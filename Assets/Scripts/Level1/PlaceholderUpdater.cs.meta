@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/FlickeringLight2D.cs.meta
+<<<<<<< HEAD
+guid: 1ec973a31f55dab4b972522637f6bce3
+=======
+<<<<<<< Updated upstream
+guid: 58e02d17dd53a7c499789052c33082b0
+=======
+guid: c7bdee2d0bb32e24ca01cf119f93c5dd
+>>>>>>> Stashed changes
+>>>>>>> e21bef89cb3c8436ecf4c4b2454c85009ddabaa0
+========
+guid: 2445c26a303c80540b09dddcd34df760
+>>>>>>>> fafd1a41e21238c144716d0a1c6ca323be1e00cc:Assets/Scripts/Level1/PlaceholderUpdater.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
